@@ -1,6 +1,7 @@
 # iNotebook - Keep your Notes secure in Cloud
 
-## Please Visit - [iNotebook](https://inotebook108.netlify.app)
+## Please Visit - [iNotebook](https://inotebook108.netlify.app). (Use in Desktop only)
+
 
 
 
